@@ -52,13 +52,7 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchInterpreter>-all</MtouchInterpreter>
-    <CodesignExtraArgs></CodesignExtraArgs>
-    <MtouchUseThumb></MtouchUseThumb>
-    <MtouchFloat32></MtouchFloat32>
-    <CrashReportingApiKey></CrashReportingApiKey>
     <CrashReportingEnabled>false</CrashReportingEnabled>
-    <IOSDebuggerPort></IOSDebuggerPort>
-    <CrashReportingDelay>-1</CrashReportingDelay>
     <MtouchLink>None</MtouchLink>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
