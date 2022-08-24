@@ -133,4 +133,7 @@
       <Name>optimize_build_flag</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\NothingSpecial.png" />
+  </ItemGroup>
 </Project>
